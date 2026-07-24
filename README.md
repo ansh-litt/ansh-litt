@@ -83,3 +83,87 @@
 </p>
 
 ---
+# 🚀 Featured Projects
+
+## 🌾 Early Wheat Disease Detection Using AI
+> AI-powered web application for early detection of wheat diseases using Deep Learning and Computer Vision.
+
+**Tech Used:** Python • TensorFlow • FastAPI • HTML • CSS
+
+🔗 Repository:
+https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI
+
+---
+
+## 🎨 AI Image Studio
+> An AI-based image generation application with a clean and interactive interface.
+
+**Tech Used:** Python • Streamlit • AI APIs
+
+---
+
+## 📖 Multi-Modal Visual Novel
+> An interactive AI storytelling application that combines text generation, image generation, and text-to-speech for an immersive visual novel experience.
+
+**Tech Used:** Python • Streamlit • Gemini API • Pollinations AI • gTTS
+
+---
+
+# 🌱 Currently Learning
+
+```text
+✔ Artificial Intelligence
+✔ Machine Learning
+✔ Prompt Engineering
+✔ Large Language Models (LLMs)
+✔ Data Structures & Algorithms
+✔ Building Real-World AI Applications
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become a Skilled AI Engineer
+- 📚 Strengthen Data Structures & Algorithms
+- 💻 Build More AI Projects
+- 🌐 Contribute to Open Source
+- 🏆 Secure a High-Quality AI Internship
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+📧 **Email**
+
+**chaudharyansh347@gmail.com**
+
+💻 **GitHub**
+
+https://github.com/ansh-litt
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Every line of code I write today is an investment in the AI Engineer I want to become tomorrow."**
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+🚀 **Happy Coding!**
+
+</p>
