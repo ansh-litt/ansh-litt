@@ -1,50 +1,66 @@
-# Hello, I'm Ansh Choudhary
+# <p align="center">👋 Hello, I'm Ansh Choudhary</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;B.Tech+CSE+Student;Python+Developer;Building+Real-World+AI+Projects;Always+Learning+Something+New..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Projects;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 ---
 
-# Terminal Profile:
+# 💻 Terminal Profile
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                      SYSTEM INFORMATION                      │
-├──────────────────────────────────────────────────────────────┤
-│ Username     : ansh-litt                                     │
-│ Name         : Ansh Choudhary                                │
-│ Role         : AI Engineer (Aspiring)                        │
-│ Education    : B.Tech Computer Science & Engineering         │
-│ Focus        : Artificial Intelligence & Machine Learning    │
-│ Languages    : Python • C++ • SQL                            │
-│ Tools        : Streamlit • Git • GitHub • VS Code            │
-│ Learning     : LLMs • Prompt Engineering • APIs              │
-│ Hobbies      : AI Engineering • Coding • Gaming • Reading    │
-│ Email        : chaudharyansh347@gmail.com                    │
-│ Status       : Building AI Projects Every Day 🚀             │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│                     █████╗ ███╗   ██╗███████╗██╗  ██╗               │
+│                    ██╔══██╗████╗  ██║██╔════╝██║  ██║               │
+│                    ███████║██╔██╗ ██║███████╗███████║               │
+│                    ██╔══██║██║╚██╗██║╚════██║██╔══██║               │
+│                    ██║  ██║██║ ╚████║███████║██║  ██║               │
+│                    ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝               │
+│                                                                     │
+├─────────────────────────────────────────────────────────────────────┤
+│ USERNAME     :: ansh-litt                                           │
+│ NAME         :: Ansh Choudhary                                      │
+│ ROLE         :: AI & Machine Learning Enthusiast                    │
+│ EDUCATION    :: B.Tech Computer Science & Engineering               │
+│ INTERESTS    :: AI • Machine Learning • LLMs                        │
+│ LANGUAGES    :: Python • C                                          │
+│ TOOLS        :: Streamlit • Git • GitHub • VS Code                  │
+│ CURRENTLY    :: Building AI Projects & Learning Everyday            │
+│ EMAIL        :: chaudharyansh347@gmail.com                          │
+│ STATUS       :: Never Stop Learning 🚀                              │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# Tech Stack:
+# 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💡 Love building AI-powered applications
+- 🌱 Currently learning LLMs, Prompt Engineering and AI Development
+- 🎯 Goal: Become a Professional AI Engineer
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,html,css,streamlit"/>
 
 </p>
 
 ---
 
-# GitHub Statistics:
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-litt&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ansh-litt&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -56,53 +72,12 @@
 
 ---
 
-# Featured Projects:
-
-⭐ Early Wheat Disease Detection Using AI
-
-⭐ AI Image Studio
-
-⭐ Multi-Modal Visual Novel
-
----
-
-# Currently Learning:
-
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Data Structures & Algorithms
-
----
-
-# Connect With Me:
-
-📧 Email:
-**chaudharyansh347@gmail.com**
-
-🔗 GitHub:
-https://github.com/ansh-litt
-
----
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+<img src="https://github-profile-trophy.vercel.app/?username=ansh-litt&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
-<!--
-**ansh-litt/ansh-litt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
