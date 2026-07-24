@@ -85,14 +85,11 @@
 ---
 # 🚀 Featured Projects
 
-## 🌾 Early Wheat Disease Detection Using AI
-> AI-powered web application for early detection of wheat diseases using Deep Learning and Computer Vision.
+### 🌾 Early Wheat Disease Detection Using AI
 
-**Tech Used:** Python • TensorFlow • FastAPI • HTML • CSS
+AI-powered wheat disease detection using Deep Learning.
 
-🔗 Repository:
-https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI
-
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
 ---
 
 ## 🎨 AI Image Studio
@@ -136,13 +133,9 @@ https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI
 
 <p align="center">
 
-📧 **Email**
+-📧 Email: chaudharyansh347@gmail.com
 
-**chaudharyansh347@gmail.com**
-
-💻 **GitHub**
-
-https://github.com/ansh-litt
+-💻 GitHub: https://github.com/ansh-litt
 
 </p>
 
@@ -158,12 +151,12 @@ https://github.com/ansh-litt
 
 ---
 
+---
+
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub Profile ⭐
 
-If you like my work, consider giving a ⭐ to my repositories.
-
-🚀 **Happy Coding!**
+Building AI solutions one project at a time 🚀
 
 </p>
