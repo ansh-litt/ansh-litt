@@ -25,7 +25,7 @@ I am a **Computer Science & Engineering** student at ABES Institute of Technolog
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-`Python` • `C++` • `C` • `FastAPI` • `Streamlit` • `TensorFlow` • `OpenCV`
+`Python` • `C` • `FastAPI` • `Streamlit` • `TensorFlow` • `OpenCV`
 
 **Developer Tools:**  
 `Git` • `GitHub` • `VS Code` • `Jupyter`
@@ -42,19 +42,19 @@ An AI-powered interactive storytelling platform where users create custom advent
 A deep learning solution to identify wheat leaf diseases early and support smart agriculture.
 - **Tech:** Python, TensorFlow, OpenCV, FastAPI
 
-### 3. 🖼️ [AI Image Studio](https://github.com/ansh-litt/AI-Image-Studio) *(Update link if needed)*
+### 3. 🖼️ [AI Image Studio](https://github.com/ansh-litt/AI-Image-Studio) 
 A prompt-based image generation workspace designed with a clean, interactive user interface.
 - **Tech:** Python, Streamlit, AI APIs
 
-### 4. 🤖 [AI Personal Assistant / Bot](https://github.com/ansh-litt) *(Apni exact repo ka link add kar do)*
+### 4. 🤖 [AI Personal Assistant / Bot](https://github.com/ansh-litt) 
 Smart automation tool designed to handle dynamic user prompts and execute tasks intelligently.
 - **Tech:** Python, LLMs, Prompt Engineering
 
-### 5. 🔍 [Smart Document Summarizer / RAG App](https://github.com/ansh-litt) *(Apni exact repo ka link add kar do)*
+### 5. 🔍 [Smart Document Summarizer / RAG App](https://github.com/ansh-litt) 
 An AI tool to process long documents and retrieve targeted context instantly using custom prompts.
 - **Tech:** Python, FastAPI, Embeddings
 
-### 6. 🌐 [Web & AI Utility Suite](https://github.com/ansh-litt) *(Apni exact repo ka link add kar do)*
+### 6. 🌐 [Web & AI Utility Suite](https://github.com/ansh-litt) 
 A collection of custom micro-tools and backend APIs built for everyday developer workflows.
 - **Tech:** Python, FastAPI, HTML/CSS
 
