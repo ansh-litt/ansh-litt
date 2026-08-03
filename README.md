@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
 **Building AI-powered applications with Python, Machine Learning, and Large Language Models.**
 
@@ -20,17 +20,17 @@
 
 ---
 
-## ⚡ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
+## ⚡ About Me
 
-I'm a **B.Tech Computer Science & Engineering** student at **ABES Institute of Technology** with a strong focus on **Artificial Intelligence** and **Machine Learning**.
+I'm a **B.Tech Computer Science & Engineering** student at **ABES Institute of Technology** with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
 
-I enjoy transforming raw ideas into functional AI solutions by combining modern frameworks with hands-on problem solving. My focus is on building practical, user-friendly software while continuously strengthening my core programming fundamentals.
+I enjoy transforming ideas into practical AI applications by combining modern technologies with real-world problem solving. My current learning journey focuses on building intelligent software while continuously strengthening my programming and problem-solving skills.
 
 > *"Great software isn't built by knowing everything — it's built by learning, improving, and creating something better every single day."*
 
 ---
 
-## 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 & 𝓣𝓸𝓸𝓵𝓼
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -38,61 +38,104 @@ I enjoy transforming raw ideas into functional AI solutions by combining modern 
 
 </div>
 
-```text
-Core Languages    : Python, C, HTML5, CSS3
-AI & Frameworks   : TensorFlow, Keras, OpenCV, Streamlit, FastAPI, Gemini API
-Developer Tools   : Git, GitHub, VS Code, Jupyter
+- **Core Languages:** Python, C, HTML5, CSS3
+- **AI & Frameworks:** TensorFlow, Keras, OpenCV, Streamlit, FastAPI, Gemini API
+- **Developer Tools:** Git, GitHub, VS Code, Jupyter
 
-📌 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
-1. 🧠 Life-OS-Wellbeing-Dashboard
-An AI-powered wellbeing dashboard that analyzes screen time, visualizes usage trends, and provides personalized productivity coaching via Google's Gemini API.
+---
 
-Tech: Python Gemini API Streamlit
+## 📌 Featured Projects
 
-2. 📖 Visual-Novel
-An interactive AI-powered story engine built with real-time story generation, artwork generation, and voice narration.
+### 1. 🧠 [Life-OS-Wellbeing-Dashboard](https://github.com/ansh-litt/Life-OS-Wellbeing-Dashboard)
+An AI-powered wellbeing dashboard that analyzes screen time, visualizes usage trends, and provides personalized productivity coaching using Google's Gemini API.
 
-Tech: Python Streamlit Gemini Pollinations AI gTTS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-3. 🎨 AI-Image-Studio
-An AI image generation tool built for generating art via text prompts with multiple style options and Magic Enhance.
+---
 
-Tech: Python Streamlit Pollinations AI
+### 2. 📖 [Visual-Novel](https://github.com/ansh-litt/Visual-Novel)
+An interactive AI-powered story engine built with real-time story generation, AI-generated illustrations, and voice narration.
 
-4. 💬 memory-vault-stateful-chatbot
-A stateful AI Chatbot built for the MirAI Virtual Summer Internship 2026.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-Tech: Python Streamlit Gemini API
+---
 
-5. 🌾 Early-Wheat-Disease-Detection-Using-AI
-A deep learning web application for early identification of wheat leaf diseases using Computer Vision.
+### 3. 🎨 [AI-Image-Studio](https://github.com/ansh-litt/AI-Image-Studio)
+An AI image generation workspace built with Python and Streamlit using Pollinations AI, featuring art styles, custom dimensions, and Magic Enhance.
 
-Tech: Python TensorFlow OpenCV FastAPI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square)
 
-6. 🌐 identity-echo-interface
-An interactive AI interface project built as part of internship assignments.
+---
 
-Tech: Python Streamlit
+### 4. 💬 [memory-vault-stateful-chatbot](https://github.com/ansh-litt/memory-vault-stateful-chatbot)
+A Stateful AI Chatbot built with Streamlit and Google Gemini API for the MirAI Virtual Summer Internship 2026.
 
-🏆 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 & 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼
-📜 MirAI Virtual Summer Internship 2026 — Hands-on AI/ML development & Stateful Chatbots
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-🏅 Aavishkar 5.O Ideathon — Digital Learning Platform for Rural Schools
+---
 
-🔗 Check my LinkedIn Profile for verified badges & completion certificates!
+### 5. 🌾 [Early-Wheat-Disease-Detection-Using-AI](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
+An AI-powered web application for early detection of wheat diseases using Deep Learning and Computer Vision for agriculture health.
 
-📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓼
-🎯 𝓖𝓸𝓪𝓵𝓼 𝓯𝓸𝓻 2026
-🤖 Build production-ready AI applications
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-⚡ Solve Data Structures & Algorithms problems consistently
+---
 
-🚀 Learn RAG (Retrieval-Augmented Generation) & AI Agents
+### 6. 🌐 [identity-echo-interface](https://github.com/ansh-litt/identity-echo-interface)
+An interactive interface project built as part of the MirAI Virtual Summer Internship 2026 assignments.
 
-🌟 Active contributions to Open Source AI repositories
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+---
 
+## 🏆 Certifications & Achievements
 
-"Building intelligent software, one project at a time."
+- 🎓 **MirAI Virtual Summer Internship 2026** — Built stateful AI chatbots & interactive interface applications.
+- 💡 **Aavishkar 5.O Ideathon** — Developed a project proposal for *"A Digital Learning Platform for Rural School Students"*.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ansh-choudhary-58392a382/) to check out my full credential profile!
 
-Isko updated karke test karo, screen pe ekdam balanced aur visual look aayega!
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🎯 Goals for 2026
+
+- 🤖 Build production-ready AI applications
+- ⚡ Solve Data Structures & Algorithms problems in Python
+- 🚀 Learn RAG (Retrieval-Augmented Generation) & Autonomous AI Agents
+- 🌟 Contribute to Open Source AI repositories
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ansh-litt&label=Profile%20Views&color=3B82F6&style=flat"/>
+
+<br><br>
+
+*"Building intelligent software, one project at a time."*
+
+⭐ If you find my projects interesting, feel free to explore them and leave a star!
+
+</div>
