@@ -100,25 +100,21 @@ An interactive interface project built as part of the MirAI Virtual Summer Inter
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Training
 
-- 🎓 **MirAI Virtual Summer Internship 2026** — Built stateful AI chatbots & interactive interface applications.
-- 💡 **Aavishkar 5.O Ideathon** — Developed a project proposal for *"A Digital Learning Platform for Rural School Students"*.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ansh-choudhary-58392a382/) to check out my full credential profile!
+- 🎓 **MirAI Virtual Summer Internship 2026** — *Hands-on AI/ML engineering, Stateful Chatbots & Interface Systems.*
+- 🚀 **AI & Development Bootcamps** — *Completed hands-on practical bootcamps on AI applications, Machine Learning fundamentals, and Python integration.*
+- 🏛️ **College Workshops & Competitions** — *Active participant in technical workshops, practical bootcamps, and institutional tech events.*
+- 💡 **Aavishkar 5.O Ideathon** — *Designed & presented project proposal for "A Digital Learning Platform for Rural School Students".*
+- 🔗 *Explore verified credentials & certificates on my [LinkedIn Profile](https://www.linkedin.com/in/ansh-choudhary-58392a382/).*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<a href="https://github.com/ansh-litt">
-  <img height="165" src="https://github-readme-stats-git-masterrst-pgr306s-projects.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/ansh-litt">
-  <img height="165" src="https://github-readme-stats-git-masterrst-pgr306s-projects.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+[![Ansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansh-litt&theme=tokyonight&hide_border=true)](https://github.com/ansh-litt)
 
 </div>
 
