@@ -112,8 +112,13 @@ An interactive interface project built as part of the MirAI Virtual Summer Inter
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/ansh-litt">
+  <img height="165" src="https://github-readme-stats-git-masterrst-pgr306s-projects.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/ansh-litt">
+  <img height="165" src="https://github-readme-stats-git-masterrst-pgr306s-projects.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -129,10 +134,6 @@ An interactive interface project built as part of the MirAI Virtual Summer Inter
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ansh-litt&label=Profile%20Views&color=3B82F6&style=flat"/>
-
-<br><br>
 
 *"Building intelligent software, one project at a time."*
 
