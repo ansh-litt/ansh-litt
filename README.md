@@ -110,11 +110,13 @@ An interactive interface project built as part of the MirAI Virtual Summer Inter
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Summary
 
 <div align="center">
 
-[![Ansh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansh-litt&theme=tokyonight&hide_border=true)](https://github.com/ansh-litt)
+[![Public Repositories](https://img.shields.io/badge/Public_Repos-6+-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh-litt?tab=repositories)
+[![Main Language](https://img.shields.io/badge/Primary_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ansh-litt)
+[![Focus](https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/ansh-litt)
 
 </div>
 
