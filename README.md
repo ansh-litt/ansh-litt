@@ -1,87 +1,98 @@
-# Hi there, I'm Ansh Choudhary 👋
+<div align="center">
 
-<p align="center">
-  <b>AI & Machine Learning Enthusiast | Python Developer | CSE Student</b>
-</p>
+# Ansh Choudhary
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chaudharyansh347@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ansh-litt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<a href="https://github.com/ansh-litt">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+AI+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+</a>
 
----
+<br>
 
-## 🚀 About Me
+**Building AI-powered applications with Python, Machine Learning, and Large Language Models.**
 
-I am a **Computer Science & Engineering** student at ABES Institute of Technology. I specialize in building real-world AI applications using **Python, Machine Learning, and LLMs**.
+<br>
 
-- 🔭 **Currently Building:** Practical AI solutions, smart web apps, and machine learning models.
-- 🎯 **Focus Areas:** Deep Learning, Generative AI, Computer Vision, and Data Structures & Algorithms.
-- 💡 **Philosophy:** *"Great software is built by learning, improving, and creating something better every single day."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-choudhary-58392a382/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharyansh347@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh-litt)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
-**Languages & Frameworks:**  
-`Python` • `C` • `FastAPI` • `Streamlit` • `TensorFlow` • `OpenCV`
+I'm a **B.Tech Computer Science & Engineering** student at **ABES Institute of Technology** with a strong focus on **Artificial Intelligence** and **Machine Learning**.
 
-**Developer Tools:**  
-`Git` • `GitHub` • `VS Code` • `Jupyter`
+I enjoy transforming raw ideas into functional AI solutions by combining modern frameworks with hands-on problem solving. My focus is on building practical, user-friendly software while continuously strengthening my core programming fundamentals.
 
----
-
-## 📌 Featured Projects
-
-### 1. 📖 [StoryVerse AI](https://github.com/ansh-litt/StoryVerse-AI)
-An AI-powered interactive storytelling platform where users create custom adventures with AI-generated text, artwork, and voice narration.
-- **Tech:** Python, Streamlit, Gemini API, Pollinations AI, gTTS
-
-### 2. 🌾 [Early Wheat Disease Detection Using AI](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
-A deep learning solution to identify wheat leaf diseases early and support smart agriculture.
-- **Tech:** Python, TensorFlow, OpenCV, FastAPI
-
-### 3. 🖼️ [AI Image Studio](https://github.com/ansh-litt/AI-Image-Studio) 
-A prompt-based image generation workspace designed with a clean, interactive user interface.
-- **Tech:** Python, Streamlit, AI APIs
-
-### 4. 🤖 [AI Personal Assistant / Bot](https://github.com/ansh-litt) 
-Smart automation tool designed to handle dynamic user prompts and execute tasks intelligently.
-- **Tech:** Python, LLMs, Prompt Engineering
-
-### 5. 🔍 [Smart Document Summarizer / RAG App](https://github.com/ansh-litt) 
-An AI tool to process long documents and retrieve targeted context instantly using custom prompts.
-- **Tech:** Python, FastAPI, Embeddings
-
-### 6. 🌐 [Web & AI Utility Suite](https://github.com/ansh-litt) 
-A collection of custom micro-tools and backend APIs built for everyday developer workflows.
-- **Tech:** Python, FastAPI, HTML/CSS
-
-*(Note: Baaki 3 projects ke exact titles/links ke hisaab se brackets `[ ]` me naam change kar lena!)*
+> *"Great software isn't built by knowing everything — it's built by learning, improving, and creating something better every single day."*
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 & 𝓣𝓸𝓸𝓵𝓼
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,streamlit,tensorflow,fastapi&perline=5" alt="Tech Stack Icons" />
 
-## 🎯 2026 Goals
+</div>
 
-- 🤖 Master Retrieval-Augmented Generation (RAG) & AI Agents
-- 💻 Solve 200+ DSA problems with Python
-- 🚀 Deploy production-ready AI microservices
-- 🌟 Contribute actively to Open Source AI repositories
+```text
+Core Languages    : Python, C, HTML5, CSS3
+AI & Frameworks   : TensorFlow, Keras, OpenCV, Streamlit, FastAPI, Gemini API
+Developer Tools   : Git, GitHub, VS Code, Jupyter
 
----
+📌 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
+1. 🧠 Life-OS-Wellbeing-Dashboard
+An AI-powered wellbeing dashboard that analyzes screen time, visualizes usage trends, and provides personalized productivity coaching via Google's Gemini API.
 
-<p align="center">
-  <i>"Building intelligent software, one project at a time."</i><br>
-  <img src="https://komarev.com/ghpvc/?username=ansh-litt&label=Profile%20Views&color=3B82F6&style=flat" />
-</p>
+Tech: Python Gemini API Streamlit
 
+2. 📖 Visual-Novel
+An interactive AI-powered story engine built with real-time story generation, artwork generation, and voice narration.
+
+Tech: Python Streamlit Gemini Pollinations AI gTTS
+
+3. 🎨 AI-Image-Studio
+An AI image generation tool built for generating art via text prompts with multiple style options and Magic Enhance.
+
+Tech: Python Streamlit Pollinations AI
+
+4. 💬 memory-vault-stateful-chatbot
+A stateful AI Chatbot built for the MirAI Virtual Summer Internship 2026.
+
+Tech: Python Streamlit Gemini API
+
+5. 🌾 Early-Wheat-Disease-Detection-Using-AI
+A deep learning web application for early identification of wheat leaf diseases using Computer Vision.
+
+Tech: Python TensorFlow OpenCV FastAPI
+
+6. 🌐 identity-echo-interface
+An interactive AI interface project built as part of internship assignments.
+
+Tech: Python Streamlit
+
+🏆 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓽𝓲𝓸𝓷𝓼 & 𝓐𝓬𝓱𝓲𝓮𝓿𝓮𝓶𝓮𝓷𝓽𝓼
+📜 MirAI Virtual Summer Internship 2026 — Hands-on AI/ML development & Stateful Chatbots
+
+🏅 Aavishkar 5.O Ideathon — Digital Learning Platform for Rural Schools
+
+🔗 Check my LinkedIn Profile for verified badges & completion certificates!
+
+📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓼
+🎯 𝓖𝓸𝓪𝓵𝓼 𝓯𝓸𝓻 2026
+🤖 Build production-ready AI applications
+
+⚡ Solve Data Structures & Algorithms problems consistently
+
+🚀 Learn RAG (Retrieval-Augmented Generation) & AI Agents
+
+🌟 Active contributions to Open Source AI repositories
+
+
+
+"Building intelligent software, one project at a time."
+
+Isko updated karke test karo, screen pe ekdam balanced aur visual look aayega!
