@@ -1,98 +1,167 @@
-# Hi 👋, I'm Ansh Choudhary
+# Hey, I'm Ansh Choudhary 👋
 
-### Aspiring AI Engineer | B.Tech CSE Student | Python & AI Application Development
+<div align="center">
 
-I'm a Computer Science and Engineering student interested in building practical software and AI-powered applications. I enjoy learning by building projects, exploring new technologies, and turning ideas into working solutions.
+### B.Tech CSE Student | Aspiring AI Engineer | Software Development
 
-My long-term goal is to become an **AI Engineer** by strengthening my programming fundamentals, problem-solving skills, and understanding of AI/ML systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Learning+Python+one+day+at+a+time;Turning+ideas+into+working+projects;Growing+towards+AI+Engineering" alt="Typing SVG" />
 
-- 🔭 **Currently working on:** Python fundamentals and hands-on development
-- 🤖 **Interested in:** Artificial Intelligence, Machine Learning, LLMs, and AI-powered applications
-- 🌱 **Learning:** Python, APIs, prompt engineering, and software development
-- 🎯 **Goal:** Build useful AI applications and become a strong software engineer
-- 📚 **Current challenge:** 100 Days of Python
-- 📍 **Based in:** India
+<p>
+  <a href="https://github.com/ansh-litt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-7C3AED?style=for-the-badge" alt="AI Engineering"/>
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Interests
+## 👨‍💻 About Me
 
-**Programming:** Python, C
+I'm a Computer Science and Engineering student passionate about **Artificial Intelligence, Machine Learning, and practical software development**.
 
-**AI & Machine Learning:** AI applications, LLMs, Gemini API, prompt engineering
+I enjoy experimenting with ideas, building AI-powered applications, and learning how software works beyond just writing code.
 
-**App Development:** Streamlit, FastAPI, HTML, CSS, JavaScript
+- 🤖 **Career Goal:** Become an AI Engineer
+- 🧠 **Interests:** AI/ML, LLMs, intelligent applications, and automation
+- 🛠️ **Building:** Practical projects that combine software and AI
+- 🐍 **Current Challenge:** 100 Days of Python
+- 📚 **Learning Philosophy:** Understand the concept, write the code, test it, and improve it.
 
-**Tools:** Git, GitHub, VS Code
+> *Learn by building. Improve by experimenting. Grow by staying consistent.*
 
-*I'm continuously improving these skills through hands-on practice and projects.*
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### AI & Application Development
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 [NegotiateAI — Salary Negotiation Simulator](https://github.com/ansh-litt/NegotiateAI)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An interactive AI-powered application that helps users practise salary negotiations with an AI HR manager.
+### 💰 NegotiateAI
 
-- Multi-round negotiation simulations
-- AI-powered feedback and performance evaluation
-- Interactive analytics and reporting
+An AI-powered salary negotiation simulator designed to help users practise negotiation through interactive conversations.
 
 **Tech:** Python · Streamlit · Gemini API
 
-### 🌾 [Khet Rakshak — Wheat Disease Detection](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
+<a href="https://github.com/ansh-litt/NegotiateAI">View Repository →</a>
 
-An AI-focused project exploring early wheat disease detection to help provide useful information for agricultural decision-making.
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Khet Rakshak
+
+An AI-focused project for early wheat disease detection, combining machine learning concepts with a web application.
 
 **Tech:** Python · Machine Learning · FastAPI · HTML · CSS
 
-### 🧠 [Memory Vault — Stateful Chatbot](https://github.com/ansh-litt/memory-vault-stateful-chatbot)
+<a href="https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI">View Repository →</a>
 
-A conversational AI project focused on maintaining context across interactions using a stateful chatbot architecture.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Memory Vault
+
+A stateful AI chatbot exploring conversational context and AI-powered interactions.
 
 **Tech:** Python · Streamlit · Google Gemini API
 
-### 🖼️ [AI Image Studio](https://github.com/ansh-litt/AI-Image-Studio)
+<a href="https://github.com/ansh-litt/memory-vault-stateful-chatbot">View Repository →</a>
 
-An AI-powered image generation application exploring creative workflows, prompt enhancement, and image customization.
+</td>
+<td width="50%" valign="top">
+
+### 🎨 AI Image Studio
+
+An AI image-generation application focused on creative prompts and image-generation workflows.
 
 **Tech:** Python · Streamlit · AI APIs
 
-### 🎭 [Visual Novel](https://github.com/ansh-litt/Visual-Novel)
+<a href="https://github.com/ansh-litt/AI-Image-Studio">View Repository →</a>
 
-An interactive storytelling project combining narrative experiences with AI-assisted content and multimedia features.
+</td>
+</tr>
+</table>
 
-**Tech:** Python · Streamlit · Gemini API · Text-to-Speech
+### 🎭 More Projects
 
-➡️ **[Explore all my repositories](https://github.com/ansh-litt?tab=repositories)**
+- **[Visual Novel](https://github.com/ansh-litt/Visual-Novel)** — An interactive storytelling experience combining Python and AI-powered features.
+- **[Explore all repositories →](https://github.com/ansh-litt?tab=repositories)**
 
 ---
 
-## 📈 My Learning Journey
+## 📊 GitHub Overview
 
-I'm focused on building a strong foundation before moving deeper into AI engineering.
+<div align="center">
 
-- Strengthening Python and programming fundamentals
-- Practising problem-solving through hands-on coding
-- Learning to build applications using APIs and backend tools
-- Exploring AI/ML concepts and LLM-based applications
-- Improving code quality, documentation, and Git/GitHub workflows
-- Building projects that demonstrate practical skills
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ansh's GitHub stats"/>
 
-### 🐍 100 Days of Python
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-I'm following CodeWithHarry's Python learning series and documenting my progress through code, practice, and GitHub commits.
+</div>
 
-The goal is not just to finish a challenge, but to understand what I build and develop consistent coding habits.
+---
+
+## 🎯 What I'm Working Towards
+
+- [ ] Strengthening Python fundamentals and problem-solving
+- [ ] Building consistent coding habits through 100 Days of Python
+- [ ] Improving backend development and API integration
+- [ ] Deepening my understanding of AI/ML and LLMs
+- [ ] Building practical, well-documented projects
+- [ ] Preparing for opportunities in AI Engineering
 
 ---
 
 ## 🤝 Let's Connect
 
-- **GitHub:** [@ansh-litt](https://github.com/ansh-litt)
-- **LinkedIn:** [Ansh Choudhary](https://www.linkedin.com/in/ansh-choudhary-58392a382/)
+I'm always interested in learning, building, and exploring new ideas in AI and software development.
 
----
+<p align="center">
+  <a href="https://github.com/ansh-litt">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-*Learning consistently. Building practically. Growing towards AI Engineering.* 🚀
+<div align="center">
+
+### *Building today. Learning every day. Engineering the future. 🚀*
+
+</div>
