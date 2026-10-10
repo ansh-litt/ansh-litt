@@ -1,126 +1,98 @@
+# Hi 👋, I'm Ansh Choudhary
 
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Ansh Choudhary</h1>
+### Aspiring AI Engineer | B.Tech CSE Student | Python & AI Application Development
 
-<h3 align="center">
-  Aspiring AI Engineer | Python Developer | B.Tech CSE Student
-</h3>
+I'm a Computer Science and Engineering student interested in building practical software and AI-powered applications. I enjoy learning by building projects, exploring new technologies, and turning ideas into working solutions.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+LLMs;Turning+Ideas+into+Working+Projects;Learning+Today%2C+Building+Tomorrow" alt="Typing animation" />
-</p>
+My long-term goal is to become an **AI Engineer** by strengthening my programming fundamentals, problem-solving skills, and understanding of AI/ML systems.
 
-<p align="center">
-  <a href="https://github.com/ansh-litt">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+- 🔭 **Currently working on:** Python fundamentals and hands-on development
+- 🤖 **Interested in:** Artificial Intelligence, Machine Learning, LLMs, and AI-powered applications
+- 🌱 **Learning:** Python, APIs, prompt engineering, and software development
+- 🎯 **Goal:** Build useful AI applications and become a strong software engineer
+- 📚 **Current challenge:** 100 Days of Python
+- 📍 **Based in:** India
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Technologies & Interests
 
-I'm a Computer Science Engineering student focused on
-building practical software and AI-powered applications.
+**Programming:** Python, C
 
-- 🤖 Aspiring **AI Engineer**
-- 🐍 Currently focusing on Python and AI application development
-- 🧠 Exploring LLMs, prompt engineering, and intelligent systems
-- 🛠️ Learning by building and improving real-world projects
-- 🌱 Interested in AI/ML, automation, and problem-solving
-- 🎯 Goal: Build strong engineering skills and contribute to
-  meaningful AI projects
+**AI & Machine Learning:** AI applications, LLMs, Gemini API, prompt engineering
 
-> "Every line of code I write today is an investment in the
-> AI Engineer I want to become tomorrow."
+**App Development:** Streamlit, FastAPI, HTML, CSS, JavaScript
 
----
+**Tools:** Git, GitHub, VS Code
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,streamlit" alt="Tech stack icons" />
-</p>
-
-**Core interests:** Python · AI/ML · LLMs · Prompt Engineering
+*I'm continuously improving these skills through hands-on practice and projects.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 Khet Rakshak — Early Wheat Disease Detection
-An AI-powered project focused on early wheat disease detection
-to support farmers with timely information.
+### 💰 [NegotiateAI — Salary Negotiation Simulator](https://github.com/ansh-litt/NegotiateAI)
 
-**Tech:** Python · FastAPI · HTML · CSS · Machine Learning
+An interactive AI-powered application that helps users practise salary negotiations with an AI HR manager.
 
-[View Repository](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
-
-### 💰 NegotiateAI — Salary Negotiation Simulator
-An AI-powered simulator designed to help users practise salary
-negotiations through interactive conversations.
+- Multi-round negotiation simulations
+- AI-powered feedback and performance evaluation
+- Interactive analytics and reporting
 
 **Tech:** Python · Streamlit · Gemini API
 
-[View Repository](https://github.com/ansh-litt/NegotiateAI)
+### 🌾 [Khet Rakshak — Wheat Disease Detection](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
 
-### 🖼️ AI Image Studio
-An AI-focused image project exploring creative workflows and
-interactive image-generation experiences.
+An AI-focused project exploring early wheat disease detection to help provide useful information for agricultural decision-making.
 
-[View Repository](https://github.com/ansh-litt/AI-Image-Studio)
+**Tech:** Python · Machine Learning · FastAPI · HTML · CSS
 
-### 🧠 Memory Vault — Stateful Chatbot
-A chatbot project focused on maintaining conversational context
-and creating a more continuous interaction experience.
+### 🧠 [Memory Vault — Stateful Chatbot](https://github.com/ansh-litt/memory-vault-stateful-chatbot)
 
-[View Repository](https://github.com/ansh-litt/memory-vault-stateful-chatbot)
+A conversational AI project focused on maintaining context across interactions using a stateful chatbot architecture.
 
-### 🎭 Visual Novel — Interactive Storytelling
-An interactive storytelling project exploring immersive
-narratives and AI-assisted creative experiences.
+**Tech:** Python · Streamlit · Google Gemini API
 
-[Explore My Repositories](https://github.com/ansh-litt?tab=repositories)
+### 🖼️ [AI Image Studio](https://github.com/ansh-litt/AI-Image-Studio)
 
----
+An AI-powered image generation application exploring creative workflows, prompt enhancement, and image customization.
 
-## 📊 GitHub Statistics
+**Tech:** Python · Streamlit · AI APIs
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
+### 🎭 [Visual Novel](https://github.com/ansh-litt/Visual-Novel)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ansh-litt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+An interactive storytelling project combining narrative experiences with AI-assisted content and multimedia features.
+
+**Tech:** Python · Streamlit · Gemini API · Text-to-Speech
+
+➡️ **[Explore all my repositories](https://github.com/ansh-litt?tab=repositories)**
 
 ---
 
-## 🌱 Currently Learning
+## 📈 My Learning Journey
 
-- Python programming and software development
-- AI/ML fundamentals and practical applications
-- Large Language Models (LLMs)
-- Prompt engineering and AI-powered workflows
-- Building and deploying useful applications
+I'm focused on building a strong foundation before moving deeper into AI engineering.
+
+- Strengthening Python and programming fundamentals
+- Practising problem-solving through hands-on coding
+- Learning to build applications using APIs and backend tools
+- Exploring AI/ML concepts and LLM-based applications
+- Improving code quality, documentation, and Git/GitHub workflows
+- Building projects that demonstrate practical skills
+
+### 🐍 100 Days of Python
+
+I'm following CodeWithHarry's Python learning series and documenting my progress through code, practice, and GitHub commits.
+
+The goal is not just to finish a challenge, but to understand what I build and develop consistent coding habits.
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/ansh-litt">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">LinkedIn</a>
-</p>
+- **GitHub:** [@ansh-litt](https://github.com/ansh-litt)
+- **LinkedIn:** [Ansh Choudhary](https://www.linkedin.com/in/ansh-choudhary-58392a382/)
 
-<p align="center">
-  <i>Building consistently. Learning continuously. Growing with every project.</i>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Footer"/>
-</p>
+*Learning consistently. Building practically. Growing towards AI Engineering.* 🚀
