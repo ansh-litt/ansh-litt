@@ -1,167 +1,126 @@
-# Hey, I'm Ansh Choudhary 👋
 
-<div align="center">
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Ansh Choudhary</h1>
 
-### B.Tech CSE Student | Aspiring AI Engineer | Software Development
+<h3 align="center">
+  Aspiring AI Engineer | Python Developer | B.Tech CSE Student
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Learning+Python+one+day+at+a+time;Turning+ideas+into+working+projects;Growing+towards+AI+Engineering" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/ansh-litt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-7C3AED?style=for-the-badge" alt="AI Engineering"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+LLMs;Turning+Ideas+into+Working+Projects;Learning+Today%2C+Building+Tomorrow" alt="Typing animation" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/ansh-litt">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about **Artificial Intelligence, Machine Learning, and practical software development**.
+I'm a Computer Science Engineering student focused on
+building practical software and AI-powered applications.
 
-I enjoy experimenting with ideas, building AI-powered applications, and learning how software works beyond just writing code.
+- 🤖 Aspiring **AI Engineer**
+- 🐍 Currently focusing on Python and AI application development
+- 🧠 Exploring LLMs, prompt engineering, and intelligent systems
+- 🛠️ Learning by building and improving real-world projects
+- 🌱 Interested in AI/ML, automation, and problem-solving
+- 🎯 Goal: Build strong engineering skills and contribute to
+  meaningful AI projects
 
-- 🤖 **Career Goal:** Become an AI Engineer
-- 🧠 **Interests:** AI/ML, LLMs, intelligent applications, and automation
-- 🛠️ **Building:** Practical projects that combine software and AI
-- 🐍 **Current Challenge:** 100 Days of Python
-- 📚 **Learning Philosophy:** Understand the concept, write the code, test it, and improve it.
-
-> *Learn by building. Improve by experimenting. Grow by staying consistent.*
+> "Every line of code I write today is an investment in the
+> AI Engineer I want to become tomorrow."
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode,streamlit" alt="Tech stack icons" />
 </p>
 
-### AI & Application Development
-<p>
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge" alt="AI and ML"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
+**Core interests:** Python · AI/ML · LLMs · Prompt Engineering
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🌾 Khet Rakshak — Early Wheat Disease Detection
+An AI-powered project focused on early wheat disease detection
+to support farmers with timely information.
 
-### 💰 NegotiateAI
+**Tech:** Python · FastAPI · HTML · CSS · Machine Learning
 
-An AI-powered salary negotiation simulator designed to help users practise negotiation through interactive conversations.
+[View Repository](https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI)
+
+### 💰 NegotiateAI — Salary Negotiation Simulator
+An AI-powered simulator designed to help users practise salary
+negotiations through interactive conversations.
 
 **Tech:** Python · Streamlit · Gemini API
 
-<a href="https://github.com/ansh-litt/NegotiateAI">View Repository →</a>
+[View Repository](https://github.com/ansh-litt/NegotiateAI)
 
-</td>
-<td width="50%" valign="top">
+### 🖼️ AI Image Studio
+An AI-focused image project exploring creative workflows and
+interactive image-generation experiences.
 
-### 🌾 Khet Rakshak
+[View Repository](https://github.com/ansh-litt/AI-Image-Studio)
 
-An AI-focused project for early wheat disease detection, combining machine learning concepts with a web application.
+### 🧠 Memory Vault — Stateful Chatbot
+A chatbot project focused on maintaining conversational context
+and creating a more continuous interaction experience.
 
-**Tech:** Python · Machine Learning · FastAPI · HTML · CSS
+[View Repository](https://github.com/ansh-litt/memory-vault-stateful-chatbot)
 
-<a href="https://github.com/ansh-litt/Early-Wheat-Disease-Detection-Using-AI">View Repository →</a>
+### 🎭 Visual Novel — Interactive Storytelling
+An interactive storytelling project exploring immersive
+narratives and AI-assisted creative experiences.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Memory Vault
-
-A stateful AI chatbot exploring conversational context and AI-powered interactions.
-
-**Tech:** Python · Streamlit · Google Gemini API
-
-<a href="https://github.com/ansh-litt/memory-vault-stateful-chatbot">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 AI Image Studio
-
-An AI image-generation application focused on creative prompts and image-generation workflows.
-
-**Tech:** Python · Streamlit · AI APIs
-
-<a href="https://github.com/ansh-litt/AI-Image-Studio">View Repository →</a>
-
-</td>
-</tr>
-</table>
-
-### 🎭 More Projects
-
-- **[Visual Novel](https://github.com/ansh-litt/Visual-Novel)** — An interactive storytelling experience combining Python and AI-powered features.
-- **[Explore all repositories →](https://github.com/ansh-litt?tab=repositories)**
+[Explore My Repositories](https://github.com/ansh-litt?tab=repositories)
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-litt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ansh's GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-litt&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ansh-litt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-## 🎯 What I'm Working Towards
+## 🌱 Currently Learning
 
-- [ ] Strengthening Python fundamentals and problem-solving
-- [ ] Building consistent coding habits through 100 Days of Python
-- [ ] Improving backend development and API integration
-- [ ] Deepening my understanding of AI/ML and LLMs
-- [ ] Building practical, well-documented projects
-- [ ] Preparing for opportunities in AI Engineering
+- Python programming and software development
+- AI/ML fundamentals and practical applications
+- Large Language Models (LLMs)
+- Prompt engineering and AI-powered workflows
+- Building and deploying useful applications
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, building, and exploring new ideas in AI and software development.
-
 <p align="center">
-  <a href="https://github.com/ansh-litt">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <a href="https://github.com/ansh-litt">GitHub</a> •
+  <a href="https://www.linkedin.com/in/ansh-choudhary-58392a382/">LinkedIn</a>
 </p>
 
-<div align="center">
+<p align="center">
+  <i>Building consistently. Learning continuously. Growing with every project.</i>
+</p>
 
-### *Building today. Learning every day. Engineering the future. 🚀*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Footer"/>
+</p>
