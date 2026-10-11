@@ -1,9 +1,12 @@
 
 <div align="center">
+  <img
+    src="./profile-banner.png"
+    width="100%"
+    alt="Ansh Choudhary | Aspiring AI Engineer"
+  />
+</div>
 
-<img src="./profile-banner.png" width="100%" alt="Ansh Choudhary - AI Engineer Banner"/>
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ansh-litt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansh-choudhary-58392a382/)
